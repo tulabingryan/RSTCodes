@@ -6,4 +6,4 @@ Date,Species,Count
 2015-05-02,cod,6
 2015-05-02,shark,1
 2015-05-03,salmon,2
-2015-05-03,shark,1
+2015-05-03,shark,3
